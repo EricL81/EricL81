@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align=center>### Hello World 👋, I'm Eric</p>
+<h2 align=center>### Hello World 👋, I'm Eric</h2>
 I am a fullstack developer from Barcelona, Spain
 - 🔭  Currently working on personal front- and back-end projects
 - 🌱  I'm currently learning React and practicing on Node.js and Express
