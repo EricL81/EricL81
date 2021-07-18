@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <h1 align=center>Hello World 👋, I'm Eric</h1>
 <p align=center>I am a fullstack developer from Barcelona, Spain</p>
-- 🔭  Currently working on personal front- and back-end projects
-- 🌱  I'm currently learning React and practicing on Node.js and Express
+<p>- 🔭  Currently working on personal front- and back-end projects</p>
+<p>- 🌱  I'm currently learning React and practicing on Node.js and Express</p>
 - 👯  I’m looking to collaborate on open-source projects
 - 👨🏻‍💻  My Portfolio: https://ericlehmann.site
 - 😄  Pronouns: He/Him
