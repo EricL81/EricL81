@@ -20,7 +20,6 @@ I am a fullstack developer from Barcelona, Spain
 - 🌱 I'm currently learning React and practicing on Node.js and Express
 - 👯 I’m looking to collaborate on open-source projects
 - 👨🏻‍💻 My Portfolio: https://ericlehmann.site
-- 📫 How to reach me: 
 - 😄 Pronouns: He/Him
 
 <br>
@@ -28,3 +27,8 @@ I am a fullstack developer from Barcelona, Spain
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-lehmann1981) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lehm_eric)
 
+## Expertise
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<br>
+<br>
