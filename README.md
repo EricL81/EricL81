@@ -24,9 +24,12 @@ Here are some ideas to get you started:
 <p>- 😄  Pronouns: He/Him</p>
 <br>
 <br>
+
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-lehmann1981) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lehm_eric)
+
 <br>
+
 ## Expertise
 <img align="left" alt="html5" src="https://img.shields.io/badge/-HTML-F64A1D?&style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="react" src="https://img.shields.io/badge/-CSS-2962E9?&style=for-the-badge&logo=css3&logoColor=white" />
