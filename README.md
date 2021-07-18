@@ -16,16 +16,21 @@ Here are some ideas to get you started:
 -->
 <h1 align=center>Hello World 👋, I'm Eric</h1>
 <p align=center>I am a fullstack developer from Barcelona, Spain</p>
+<br>
 <p>- 🔭  Currently working on personal front- and back-end projects</p>
 <p>- 🌱  I'm currently learning React and practicing on Node.js and Express</p>
-- 👯  I’m looking to collaborate on open-source projects
-- 👨🏻‍💻  My Portfolio: https://ericlehmann.site
-- 😄  Pronouns: He/Him
+<p>- 👯  I’m looking to collaborate on open-source projects</p>
+<p>- 👨🏻‍💻  My Portfolio: https://ericlehmann.site</p>
+<p>- 😄  Pronouns: He/Him</p>
 
 <br>
+<br>
+
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-lehmann1981) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lehm_eric)
+
+<br>
 
 ## Expertise
 <img align="left" alt="html5" src="https://img.shields.io/badge/-HTML-F64A1D?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -39,7 +44,7 @@ Here are some ideas to get you started:
 <img align="left" alt="react" src="https://img.shields.io/badge/-bootstrap-533C78?&style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img align="left" alt="react" src="https://img.shields.io/badge/-react-4600b7?&style=for-the-badge&logo=react&logoColor=white" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<br>
+
 <br>
 
 
