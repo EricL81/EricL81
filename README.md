@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 ### Hello World 👋, I'm Eric
 I am a fullstack developer from Barcelona, Spain
-- 🔭 Currently working on personal front- and back-end projects
-- 🌱 I'm currently learning React and practicing on Node.js and Express
-- 👯 I’m looking to collaborate on open-source projects
-- 👨🏻‍💻 My Portfolio: https://ericlehmann.site
-- 😄 Pronouns: He/Him
+- 🔭  Currently working on personal front- and back-end projects
+- 🌱  I'm currently learning React and practicing on Node.js and Express
+- 👯  I’m looking to collaborate on open-source projects
+- 👨🏻‍💻  My Portfolio: https://ericlehmann.site
+- 😄  Pronouns: He/Him
 
 <br>
 
