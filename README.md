@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 
 ## Expertise
 <img align="left" alt="html5" src="https://img.shields.io/badge/-HTML-F64A1D?&style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" alt="react" src="https://img.shields.io/badge/-CSS-2962E9?&style=for-the-badge&logo=css3&logoColor=white" />
-<img align="left" alt="react" src="https://img.shields.io/badge/-JAVASCRIPT-D89606?&style=for-the-badge&logo=javascript&logoColor=white" />
-<img align="left" alt="react" src="https://img.shields.io/badge/-MySQL-1B5E86?&style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="left" alt="react" src="https://img.shields.io/badge/-Laravel-F62C1F?&style=for-the-badge&logo=laravel&logoColor=white" />
-<img align="left" alt="react" src="https://img.shields.io/badge/-php-7477AD?&style=for-the-badge&logo=php&logoColor=white" />
-<img align="left" alt="react" src="https://img.shields.io/badge/-vue.js-3FB27F?&style=for-the-badge&logo=vuedotjs&logoColor=white" />
-<img align="left" alt="react" src="https://img.shields.io/badge/-express.js-3fafae?&style=for-the-badge&logo=express&logoColor=white" />
-<img align="left" alt="react" src="https://img.shields.io/badge/-bootstrap-533C78?&style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img align="left" alt="css3" src="https://img.shields.io/badge/-CSS-2962E9?&style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/-JAVASCRIPT-D89606?&style=for-the-badge&logo=javascript&logoColor=white" />
+<img align="left" alt="mySQL" src="https://img.shields.io/badge/-MySQL-1B5E86?&style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="left" alt="laravel" src="https://img.shields.io/badge/-Laravel-F62C1F?&style=for-the-badge&logo=laravel&logoColor=white" />
+<img align="left" alt="php" src="https://img.shields.io/badge/-php-7477AD?&style=for-the-badge&logo=php&logoColor=white" />
+<img align="left" alt="vue" src="https://img.shields.io/badge/-vue.js-3FB27F?&style=for-the-badge&logo=vuedotjs&logoColor=white" />
+<img align="left" alt="express" src="https://img.shields.io/badge/-express.js-3fafae?&style=for-the-badge&logo=express&logoColor=white" />
+<img align="left" alt="bootstrap" src="https://img.shields.io/badge/-bootstrap-533C78?&style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img align="left" alt="react" src="https://img.shields.io/badge/-react-4600b7?&style=for-the-badge&logo=react&logoColor=white" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 
