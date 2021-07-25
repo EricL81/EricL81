@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <p>- 🌱  I'm currently learning React and practicing on Node.js and Express</p>
 <p>- 👯  I’m looking to collaborate on open-source projects</p>
 <p>- 👨🏻‍💻  My Portfolio: https://ericlehmann.site</p>
+<p>- 👨🏻‍💻  My LinkedIn: https://www.linkedin.com/in/eric-lehmann1981</p>
 <p>- 😄  Pronouns: He/Him</p>
 <br>
 <br>
