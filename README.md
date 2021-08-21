@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align=center>Hello World 👋, I'm Eric</h1>
-<p align=center>I am a fullstack developer from Barcelona, Spain</p>
+<p align=center>I am a Fullstack Developer from Barcelona, Spain</p>
 <br>
 <p>- 🔭  Currently working on personal front- and back-end projects</p>
 <p>- 🌱  I'm currently learning React and practicing on Node.js and Express</p>
